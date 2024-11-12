@@ -45,6 +45,8 @@
     "build": "next build",
     "start": "next start"
   },
+    yarn add next react react-dom
+    
   "dependencies": {
     "next": "latest",
     "react": "latest",
