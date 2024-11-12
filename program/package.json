@@ -5,7 +5,7 @@
     },
     "dependencies": {
         "@project-serum/anchor": "^0.24.2"
-        yarn add next react react-dom
+
 
     },
     "devDependencies": {
