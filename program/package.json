@@ -5,6 +5,8 @@
     "build": "next build",
     "dev": "next dev",
     "start": "next start"
+    "yarn add next react react-dom"
+
   },
   "dependencies": {
     "@project-serum/anchor": "^0.24.2",
